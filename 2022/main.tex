@@ -2,7 +2,6 @@
 %% cross-references, and citations.
 
 \documentclass[11pt]{book}
-\usepackage{array}
 \usepackage{gvv}
 \usepackage{gvv-book-bkup}
 %\usepackage{Wiley-AuthoringTemplate}
@@ -200,156 +199,28 @@ This book links high school coordinate geometry to linear algebra and matrix ana
 \end{introduction}
 
 \mainmatter
+\chapter{Vectors}
+\input{vectors.tex}
+\chapter{Linear Forms}
+\input{2022/pr30.tex}
+\input{2022/perpendicular.tex}
+\input{2022/plane.tex}
+\input{2022/misc.tex}
+\input{2022/tangent.tex}
 \chapter{Intersection of Conics}
-\section{Chords}
 \input{2022/chords.tex}
-\section{Curves}
 \input{2022/curves.tex}
 \chapter{Tangent And Normal}
-\input{tangent1.tex}
+\input{2022/tangent.tex}
+\input{2022/tangent1.tex}
 \section{Construction}
-\iffalse
-\chapter{Vectors}
-\section{Length}
-\input{chapters/vectors/examples/length.tex}
-\section{Distance}
-\input{chapters/vectors/examples/distance.tex}
-\section{Exercises}
-\input{chapters/vectors/exer/distance.tex}
-\section{Section Formula}
-\input{chapters/vectors/examples/section.tex}
-\section{Exercises}
-\input{chapters/vectors/exer/section.tex}
-\section{Rank}
-\input{chapters/vectors/examples/rank.tex}
-\section{Exercises}
-\input{chapters/vectors/exer/rank.tex}
-\section{Scalar Product}
-\input{chapters/vectors/examples/scalar.tex}
-\section{Exercises}
-\input{chapters/vectors/exer/scalar.tex}
-\section{Orthogonality}
-\input{chapters/vectors/examples/ortho.tex}
-\section{Exercises}
-\input{chapters/vectors/exer/ortho.tex}
-\section{Vector Product}
-\input{chapters/vectors/examples/cross.tex}
-\section{Exercises}
-\input{chapters/vectors/exer/cross.tex}
-\section{Miscellaneous}
-\input{chapters/vectors/examples/misc.tex}
-\section{Exercises}
-\input{chapters/vectors/exer/misc.tex}
-\section{Triangle}
-\input{chapters/const/examples/tri.tex}
-\section{Exercises}
-\input{chapters/const/exer/tri.tex}
-\section{ Quadrilateral}
-\input{chapters/const/examples/quad.tex}
-\section{Exercises}
-\input{chapters/const/exer/quad.tex}
-\else
-\chapter{Linear Forms}
-\section{Equation of a Line}
-\input{2022/pr30.tex}
-\section{Perpendicular}
-\input{2022/perpendicular.tex}
-\section{Plane}
-\input{2022/plane.tex}
-\section{Miscellaneous }
-\input{2022/misc.tex}
-%\section{Exemplar}
-%\input{exemplar/11.10.3}
-%\section{Singular Value Decomposition}
-%\input{svd/svd.tex}
 %
-%\chapter{Constructions}
-%\section{JEE}
-%\input{jee/7.tex}
-%--------------------------------------------------------
-%\section{Properties}
-%\input{chapters/9/9/3.tex}
-%
-%\section{Properties}
-%\input{chapters/9/8/1.tex}
-%\section{Mid Point Theorem}
-%\input{chapters/9/8/2.tex}
-%\section{Parallelograms}
-%\section{Triangles and Parallelograms}
-%\input{chapters/9/9/4.tex}
-%--------------------------------------------------------
-
-%\chapter{Circles}
-%
-%\chapter{Tangents to a Circle}
-
-\iffalse
-\chapter{Conics}
-\section{Circle}
-\input{chapters/circles/examples/equation.tex}
-\section{Exercises}
-\input{chapters/circles/exer/equation.tex}
-\section{Construction}
-\input{chapters/circles/examples/const.tex}
-\section{Exercises}
-\input{chapters/circles/exer/const.tex}
-\section{Parabola}
-\input{chapters/conics/examples/parab.tex}
-\section{Exercises}
-\input{chapters/conics/exer/parab.tex}
-\section{Ellipse}
-\input{chapters/conics/examples/ellipse.tex}
-\section{Exercises}
-\input{chapters/conics/exer/ellipse.tex}
-\section{Hyperbola}
-\input{chapters/conics/examples/hyper.tex}
-\section{Exercises}
-\input{chapters/conics/exer/hyper.tex}
-
-%
-\fi
 
 
 %\include{ch02} 
 \backmatter
 \appendix
 \iffalse
-\chapter{ Vectors}
-\section{$2\times 1$ vectors}
-\input{matrix/two.tex}
-%\include{app01}
-%\appendix
-\section{$3\times 1$ vectors}
-\input{matrix/three.tex}
-\chapter{Matrices}
-\input{matrix/mat.tex}
-\input{linman/chapters/decomp/svd.tex}
-
-\chapter{Triangle Constructions}
-\input{cons/tri.tex}
-
-
-\chapter{Linear Forms}
-\section{Two Dimensions}
-\input{linear/two.tex}
-\section{Three Dimensions}
-\input{linear/three.tex}
-\chapter{Quadratic Forms}
-%\numberwithin{equation}{subsection}
-%\numberwithin{equation}{section}
-\section{Conic equation }
-\input{quad/defs.tex}
-\section{Circles}
-\input{quad/circle.tex}
-
-\section{Standard Form}
-\input{quad/stddef.tex}
-\chapter{Conic Parameters}
-\section{Standard Form}
-\input{quad/standard.tex}
-\section{Quadratic Form }
-\input{quad/coroll.tex}
-
 \chapter{Conic Lines}
 \section{Pair of Straight Lines}
 %
