@@ -1,10 +1,11 @@
 \vskip -8pt
 \contentsline {schapter}{Introduction}{iii}{chapter*.2}%
 \contentsline {chapter}{\numberline {1}Vectors}{1}{chapter.1}%
-\contentsline {section}{\numberline {1.1}2022}{1}{section.1.1}%
-\contentsline {chapter}{\numberline {2}Linear Forms}{11}{chapter.2}%
-\contentsline {section}{\numberline {2.1}2022}{11}{section.2.1}%
-\contentsline {chapter}{\numberline {3}Intersection of Conics}{19}{chapter.3}%
-\contentsline {section}{\numberline {3.1}2022}{19}{section.3.1}%
-\contentsline {chapter}{\numberline {4}Tangent And Normal}{21}{chapter.4}%
-\contentsline {section}{\numberline {4.1}2022}{21}{section.4.1}%
+\contentsline {section}{\numberline {1.1}2023}{1}{section.1.1}%
+\contentsline {section}{\numberline {1.2}2022}{2}{section.1.2}%
+\contentsline {chapter}{\numberline {2}Linear Forms}{13}{chapter.2}%
+\contentsline {section}{\numberline {2.1}2022}{13}{section.2.1}%
+\contentsline {chapter}{\numberline {3}Intersection of Conics}{21}{chapter.3}%
+\contentsline {section}{\numberline {3.1}2022}{21}{section.3.1}%
+\contentsline {chapter}{\numberline {4}Tangent And Normal}{23}{chapter.4}%
+\contentsline {section}{\numberline {4.1}2022}{23}{section.4.1}%
