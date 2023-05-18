@@ -1,0 +1,18 @@
+		\begin{tikzpicture}
+
+			\coordinate [label=left:$B$] (B) at (0,0);
+			\coordinate [label=right:$C$] (C) at (3,0);
+			\coordinate [label=above:$A$] (A) at (1.5,3);
+			\draw [thick] [->] (0,0)--(2,0);
+			\draw [thick] (B)--(C)--(A)--cycle;
+
+			\coordinate [label=left:$X$] (X) at (0.5,1);
+			\coordinate [label=left:$Y$] (Y) at (1.8,1.2);
+			\coordinate [label=right:$Z$] (Z) at (2.5,1);
+			\draw [thick] [->] (1,1)--(2,1);
+			\draw [thick] (X)--(Z);
+
+			\coordinate[label=below:$M$] (M) at (1,0);
+			\draw [thick] [-] (1.5,3)--(1,0);
+
+		\end{tikzpicture}
