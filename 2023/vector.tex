@@ -1,0 +1,119 @@
+\documentclass{article}
+\usepackage{gensymb}
+\usepackage{graphicx}
+\usepackage{amsmath}
+\usepackage{titling}
+\usepackage{amssymb}
+\usepackage{amsfonts}
+\usepackage{amsthm}
+\usepackage{enumitem}
+\providecommand{\mbf}{\mathbf}
+\providecommand{\pr}[1]{\ensuremath{\Pr\left(#1\right)}}
+\providecommand{\cbrak}[1]{\ensuremath{\left\{#1\right\}}}
+\newcommand{\solution}{\noindent \textbf{Solution: }}
+%\newcommand{\varsol}{\noindent \textbf{Aliter: }}
+%\newcommand*{\permcomb}[4][0mu]{{{}^{#3}\mkern#1#2_{#4}}}
+%\newcommand*{\perm}[1][-3mu]{\permcomb[#1]{P}}
+%\newcommand*{\comb}[1][-1mu]{\permcomb[#1]{C}}
+\setlist[enumerate]{font=\small\bfseries}
+\renewcommand\thefootnote{\textcolor{black}{\arabic{footnote}}}
+
+
+\providecommand{\abs}[1]{\left\vert#1\right\vert}
+\let\vec\mathbf
+
+\title{\textbf{Vectors}}
+\date{}
+
+\begin{document}
+
+\maketitle
+
+\begin{enumerate}
+\item Unit vector along $\vec{PQ}$, where coordinates of $\vec{P}$ and $\vec{Q}$ respectively are (2,1,-1)and(4,4,-7), is
+\begin{enumerate}
+\item $2\hat{i}+3\hat{j}-6\hat{k}$
+\item $-2\hat{i}-3\hat{j}+6\hat{k}$
+\item $-\frac{2\hat{i}}{7}-\frac{3\hat{j}}{7}+\frac{6\hat{k}}{7}$
+\item $\frac{2\hat{i}}{7}+\frac{3\hat{j}}{7}-\frac{6\hat{k}}{7}$
+\end{enumerate}
+
+\item If in $\triangle$ABC, $\overrightarrow{BA}$=2$\overrightarrow{a}$ and $\overrightarrow{BC}$=3$\overrightarrow{b}$, then $\overrightarrow{AC}$ is
+\begin{enumerate}
+\item $2\overrightarrow{a}$ + 3$\overrightarrow{b}$
+\item $2\overrightarrow{a}$ - 3$\overrightarrow{b}$
+\item $3\overrightarrow{b}$ - 2$\overrightarrow{a}$
+\item $-2\overrightarrow{a}$ -3$\overrightarrow{b}$
+\end{enumerate}
+
+\item Equation of line passing through origin and making 30\degree{}, 60\degree{} and 90\degree with x, y, z axes respectively is
+\begin{enumerate}
+\item $\frac{2x}{\sqrt{3}}$=$\frac{y}{2}$=$\frac{z}{0}$
+\item $\frac{2x}{\sqrt{3}}$=$\frac{2y}{1}$=$\frac{z}{0}$
+\item 2x=$\frac{2y}{\sqrt{3}}$=$\frac{z}{1}$
+\item $\frac{2x}{\sqrt{3}}$=$\frac{2y}{1}$=$\frac{z}{1}$
+\end{enumerate}
+
+\item If $\overrightarrow{a}, \overrightarrow{b}, \overrightarrow{c}$ are three non-zero unequal vectors such that $\overrightarrow{a}.\overrightarrow{b}$ = $\overrightarrow{a}.\overrightarrow{c}$, then find the angle between $\overrightarrow{a}$ and $\overrightarrow{b}$ - $\overrightarrow{c}$.
+
+
+\item If the equation of a line is
+       \begin{align}
+	x = ay + b, z = cy +d,
+       \end{align}  then find the direction ratios of the line and a point on the line.
+
+\item Using Integration, find the area of triangle whose vertices are (-1, 1), (0, 5) and (3, 2).
+
+	\newpage
+
+\title{\textbf{Probability}}
+\date{}		
+\maketitle
+	
+	\item If A and B are two events such that 
+		\begin{align}
+			\pr{A|B} = 2 \times  \pr{B|A}\pr{A} + \pr{B}  = \frac{2}{3}
+		\end{align}then \pr{B}  is equal to
+\begin{enumerate}
+\item $\frac{2}{9}$
+\item $\frac{7}{9}$
+\item $\frac{4}{9}$
+\item $\frac{5}{9}$
+\end{enumerate}
+
+\item
+\begin{enumerate}
+\item Two balls are drawn at random one by one with replacement from an urn containing equal number of red balls and green balls. Find the probability distribution of number of red balls. Also, find the mean of the random variable.
+\item A and B throw a die alternately till one of them gets '6' and wins the game. Find their respective probabilities of winning, if A starts the game first.
+\end{enumerate}
+
+\item Recent studies suggest that roughly $12\%$ of the world population is left handed.
+	
+\begin{figure}[h!]
+\centering
+\includegraphics[width=\columnwidth]{figs/left.png}
+\caption{chance of left hand, depending upon parents}
+\label{fig:left.png}
+\end{figure}
+
+Depending upon the parents, the chances of having a left handed child are as follows :\\
+\begin{enumerate}
+\item   When both father and mother are left handed :
+        Chances of left handed child is $24\%$.
+\item   When father is right handed and mother is left handed :
+        Chances of left handed child is $22\%$.
+\item   when father is left handed and mother is right handed :
+        Chances of left handed child is $17\%$.
+\item   When both father nd mother are right handed :
+        Chances of left handed child is $9\%$.
+\end{enumerate}
+Assuming that $\pr{A}=\pr{B}=\pr{C}=\pr{D}=\frac{1}{4}$ and L denotes the event that child is left handed.
+Based on the above information, answer the following questions :\\
+\begin{enumerate}
+	\item    Find \pr{L|C}
+	\item    Find \pr{\overline{L}|A}
+	\item    Find \pr{A|L}
+\item    Find the probability that a randomly selected child is left handed given that exactly one of the parent is left handed.
+\end{enumerate}
+\end{enumerate}
+\end{document}
