@@ -2,6 +2,9 @@
 \usepackage{tikz}
 \usepackage{graphicx}
 \usepackage{tkz-euclide}
+\usepackage{gensymb}
+\usepackage{array}
+\usepackage[lofdepth,lotdepth]{subfig}
 \usetikzlibrary{angles,through,calc,intersections}
 
 \begin{document}
@@ -30,9 +33,11 @@
 		\fbox{16}
 		\fbox{17}
 		\\
-		\begin{center}
-			\includegraphics[scale = 0.3]{figs/1.jpg}
-		\end{center}
+        \begin{figure}[h!]
+          \centering
+          \includegraphics[scale=0.8]{figs/1.jpg}
+        \end{figure} 
+        \\
 		Based on the above, answer the following questions : 
 		
 		\begin{enumerate}
@@ -75,7 +80,7 @@
 		
 		
 		%1
-		\item Find the distance between the points A$\left(-\frac{7}{3},5\right)$ and B$\left(\frac{2}{3},5\right)$.
+		\item Find the distance between the points A$(-\frac{7}{3},5)$ and B$(\frac{2}{3},5)$.
 		
 		%5
 		\item Check whether 13 cm, 12 cm, 5 cm can be the sides of a right triangle.
@@ -83,11 +88,11 @@
 		%12
 		\item
 		\begin{parts}
-			\item If PL and PM are two tangents to a circle with centre O from an external point P and PL = 4 cm, find the length of OP, where radius of the circle is 3 cm. 
+			\item If PL and PM are two tangents to a circle with centre O from an external point P and PL = 4 cm, find the length of OP, where radius of the circle is 3 cm.
 			
-			\begin{center} \textbf{OR} \end{center}
+			{\centering \textbf{OR}\par}
 			
-			\item Find the distance between two parallel tangents of a circle of radius 2·5 cm.
+			\item Find the distance between two parallel tangents of a circle of radius 2·5 cm. 
 		\end{parts}
 		
 		%24
@@ -96,32 +101,21 @@
 		%32
 		\item Show that the points A(1, 7), B(4, 2), C( 1, 1) and D( 4, 4) are the vertices of a square ABCD. 
 		
-		
 		%23
-		\item A quadrilateral ABCD is drawn to circumscribe a circle (see Figure 5). Prove that AB + CD = AD + BC.
-		\\
-		\begin{center}
-			\begin{tikzpicture}
-				\coordinate [label=left:$A$] (A) at (-0.781,-1.18);
-				\coordinate [label=right:$B$] (B) at (1.264,-0.762);
-				\coordinate [label=right:$C$] (C) at (0.75,1);
-				\coordinate [label=left:$D$] (D) at (-1.223,1);
-				\coordinate [label=below:$P$] (P) at (0.22,-0.976);
-				\coordinate [label=right:$Q$] (Q) at (0.96,0.28);
-				\coordinate [label=above:$R$] (R) at (0,1);
-				\coordinate [label=left:$S$] (S) at (-0.98,-0.199);
-				\draw (0,0) circle (1cm);
-				\draw (A) -- (B) -- (C) -- (D) -- (A);
-			\end{tikzpicture}
-			\\
-			\textit{Figure 5}
-		\end{center}
-		
+		\item A quadrilateral ABCD is drawn to circumscribe a circle (see Figure \ref{fig:leaf}). Prove that AB + CD = AD + BC.
+
+		\begin{figure}[h]
+        \centering
+        \includegraphics[scale=0.3]{figs/2.jpg}
+        \caption{}
+        \label{fig:leaf}
+        \end{figure}
+            
 		%27
-		\item Draw a pair of tangents to a circle of radius 4 cm which are inclined to each other at an angle of 40\textdegree . 
+		\item Draw a pair of tangents to a circle of radius 4 cm which are inclined to each other at an angle of $40\degree$. 
 		
 		%12
-		\item To divide a line segment QP internally in the ratio of 2 : 3, we draw a ray QY such that $\angle$PQY is acute. What will be the minimum number of points to be located at equal distances on the ray QY ? 
+		\item To divide a line segment QP internally in the ratio of 2 : 3, we draw a ray QY such that $\angle PQY$ is acute. What will be the minimum number of points to be located at equal distances on the ray QY ? 
 		
 		%18
 		\item Answer any \textbf{\textit{four}} of the following questions : 
@@ -148,7 +142,7 @@
 				\item 4 units
 				\item 2 units
 			\end{enumerate}
-			\item  If $\left(\frac{a}{3},4\right)$ is the mid-point of the line segment joining the points (-6, 5) and (-2, 3), then the value of {\lq a\rq} is
+			\item  If $(\frac{a}{3},4)$ is the mid-point of the line segment joining the points (-6, 5) and (-2, 3), then the value of {\lq a\rq} is
 			\begin{enumerate}
 				\item -4
 				\item 4
@@ -169,7 +163,7 @@
 		\begin{parts}
 			\item  If the distance between the points (k, 2) and (3,-6) is 10 units, find the positive value of k. 
 			
-			\begin{center} \textbf{OR} \end{center}
+			{\centering \textbf{OR}\par}
 			
 			\item  Find the length of the segment joining A (-6, 7) and B (-1,-5). Also, find the mid-point of AB. 
 		\end{parts}
@@ -179,7 +173,7 @@
 		\item  A point T is 13 cm away from the centre of a circle. The length of the tangent drawn from T to the circle is 12 cm. Find the radius of the circle. 
 		
 		%29
-		\item  Two tangents TP and TQ are drawn to a circle with centre O from an external point T. Prove that $\angle$PTQ = 2 $\angle$OPQ. 
+		\item  Two tangents TP and TQ are drawn to a circle with centre O from an external point T. Prove that $\angle PTQ$ = 2 $\angle OPQ$. 
 
 		%5 
 		\item  A man goes 5 metres due West and then 12 meters due North. How far is he from the starting point?
@@ -225,17 +219,17 @@
 			\end{enumerate}
 			\part The coordinates of the mid-point of line segment AC are
 			\begin{enumerate}
-				\item $\left(\frac{5}{2},11\right)$
-				\item $\left(\frac{5}{2},\frac{11}{2}\right)$
-				\item $\left(5,\frac{11}{2}\right)$
-				\item $\left(5,11\right)$
+				\item $(\frac{5}{2},11)$
+				\item $(\frac{5}{2},\frac{11}{2})$
+				\item $(5,\frac{11}{2})$
+				\item $(5,11)$
 			\end{enumerate}
 			\part If a point P divides the line segment AD in the ratio 1 : 2, then coordinates of P are
 			\begin{enumerate}
-				\item $\left(\frac{8}{3},\frac{8}{3}\right)$
-				\item $\left(\frac{10}{3},\frac{13}{3}\right)$
-				\item $\left(\frac{13}{3},\frac{10}{3}\right)$
-				\item $\left(\frac{16}{3},\frac{11}{3}\right)$
+				\item $(\frac{8}{3},\frac{8}{3})$
+				\item $(\frac{10}{3},\frac{13}{3})$
+				\item $(\frac{13}{3},\frac{10}{3})$
+				\item $(\frac{16}{3},\frac{11}{3})$
 			\end{enumerate}
 		\end{parts}
 		
@@ -244,27 +238,27 @@
 		\begin{parts}
 			\item Check whether the points P(5, 2), Q(6, 4) and R(7, 2) are the vertices of an isosceles triangle PQR.
 			
-			\begin{center} \textbf{OR} \end{center}
+			{\centering \textbf{OR}\par}
 			
 			\item Find the ratio in which P(4, 5) divides the join of A(2, 3) and B(7, 8). 
 		\end{parts}
 
 		%6
-		\item PQ is a tangent to a circle with centre O at the point P on the circle. If $\triangle$OPQ is an isosceles triangle, then find $\angle$OQP. 
+		\item PQ is a tangent to a circle with centre O at the point P on the circle. If $\triangle OPQ$ is an isosceles triangle, then find $\angle OQB$. 
 		
 		%7
 		\item Two concentric circles have radii 10 cm and 6 cm. Find the length of the chord of the larger circle which touches the smaller circle. 
 		
 		%15
-		\item If tangents PA and PB from an external point P to a circle with centre O are inclined to each other at an angle of 70\textdegree, then find $\angle$POA. 
+		\item If tangents PA and PB from an external point P to a circle with centre O are inclined to each other at an angle of $70\degree$, then find $\angle POA$. 
 		
 		%25
-		\item ABC is right triangle, right-angled at B, with BC = 6 cm and AB = 8 cm. A circle with centre O and radius r cm has been inscribed in $\triangle$ABC as shown in the figure. Find the value of r. 
+		\item ABC is right triangle, right-angled at B, with BC = 6 cm and AB = 8 cm. A circle with centre O and radius r cm has been inscribed in $\triangle ABC$ as shown in the figure. Find the value of r. 
 		
 		%eighth question
 
 		%2
-		\item If the graph of a pair of lines x - 2y + 3 = 0 and 2x - 4y = 5 be drawn, then what type of lines are drawn ? 
+		\item If the graph of a pair of lines $x - 2y + 3 = 0$ and $2x - 4y = 5$ be drawn, then what type of lines are drawn ? 
 		
 		%15
 		\item The coordinates of the three consecutive vertices of a parallelogram ABCD are A (1, 3), B (-1, 2) and C (2, 5). Find the coordinates of the fourth vertex D. 
@@ -274,7 +268,7 @@
 		\begin{parts}
 			\item If P (2, 2), Q (-4, -4) and R (5, -8) are the vertices of a  $\triangle$PQR, then find the length of the median through R.
 			
-			\begin{center} \textbf{OR} \end{center}
+			{\centering \textbf{OR}\par}
 			
 			\item Find the ratio in which the y-axis divides the line segment joining the points A (5, -6) and B (-1, -4). Also, find the coordinates of the point of intersection.
 		\end{parts}
@@ -284,23 +278,23 @@
 		\begin{parts}
 			\part Find the ratio in which the line segment joining the points A (1, -5) and B (-4, 5) is divided by the x-axis. Also, find the coordinates of the point of division.
 			
-			\begin{center} \textbf{OR} \end{center}
-			
+			{\centering \textbf{OR}\par}
+   
 			\part The points A (0, 3), B (-2, a) and C (-1, 4) are the vertices of a right triangle, right-angled at A. Find the value of a. 
 		\end{parts}
 		
 		%7
 		\item
 		\begin{parts}
-			\part In a right triangle ABC, right-angled at B, BC = 6 cm and AB = 8 cm. A circle is inscribed in the $\triangle$ABC. Find the radius of the incircle. 
+			\part In a right triangle ABC, right-angled at B, BC = 6 cm and AB = 8 cm. A circle is inscribed in the $\triangle ABC$. Find the radius of the incircle. 
 			
-			\begin{center} \textbf{OR} \end{center}
+			{\centering \textbf{OR}\par}
 			
-			\part Two circles touch externally at P and AB is a common tangent, touching one circle at A and the other at B. Find the measure of $\angle$APB.
+			\part Two circles touch externally at P and AB is a common tangent, touching one circle at A and the other at B. Find the measure of $\angle APB$.
 		\end{parts}
 		
 		%10
-		\item From an external point P, tangents PQ and PR are drawn to a circle with centre O, touching the circle at Q and R. If $\angle$QOR = 140\textdegree , find the measure of $\angle$QPR. 
+		\item From an external point P, tangents PQ and PR are drawn to a circle with centre O, touching the circle at Q and R. If $\angle QOR$ = $140\degree$, find the measure of $\angle QPR$. 
 		
 		%21
 		\item A circle touches all the sides of a quadrilateral ABCD. Prove that AB + CD = DA + BC.
