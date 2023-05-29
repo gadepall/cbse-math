@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020/Debian) (preloaded format=pdflatex 2023.5.22)  24 MAY 2023 14:19
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020/Debian) (preloaded format=pdflatex 2023.5.22)  29 MAY 2023 12:41
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1371,7 +1371,7 @@ LaTeX Info: Redefining \nameref on input line 26.
 (/usr/share/texlive/texmf-dist/tex/latex/setspace/setspace.sty
 Package: setspace 2011/12/19 v6.7a set line spacing
 )
-<figs/logo.jpg, id=71, 642.4pt x 642.4pt>
+<figs/logo.jpg, id=87, 642.4pt x 642.4pt>
 File: figs/logo.jpg Graphic file (type jpg)
 <use figs/logo.jpg>
 Package pdftex.def Info: figs/logo.jpg  used on input line 52.
@@ -1584,7 +1584,7 @@ mm/m/it/10.95 ; \OT1/cmr/m/n/10.95 (0\OML/cmm/m/it/10.95 ; \OT1/cmr/m/n/10.95 7
 /m/n/10.95 7)$. 
  []
 
-<figs/txn.jpg, id=275, 919.435pt x 668.4975pt>
+<figs/txn.jpg, id=295, 919.435pt x 668.4975pt>
 File: figs/txn.jpg Graphic file (type jpg)
 <use figs/txn.jpg>
 Package pdftex.def Info: figs/txn.jpg  used on input line 18.
@@ -1611,7 +1611,7 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [14 <./figs/txn.jpg>]
-<figs/bike.jpg, id=299, 906.38625pt x 604.2575pt>
+<figs/bike.jpg, id=319, 906.38625pt x 604.2575pt>
 File: figs/bike.jpg Graphic file (type jpg)
 <use figs/bike.jpg>
 Package pdftex.def Info: figs/bike.jpg  used on input line 48.
@@ -1701,12 +1701,12 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
  [22]
 Chapter 4.
 (./2022/tangent1.tex
-<figs/tan.jpg, id=392, 1084.05pt x 247.92625pt>
+<figs/tan.jpg, id=412, 1084.05pt x 247.92625pt>
 File: figs/tan.jpg Graphic file (type jpg)
 <use figs/tan.jpg>
 Package pdftex.def Info: figs/tan.jpg  used on input line 13.
 (pdftex.def)             Requested size: 360.0pt x 82.33418pt.
-<figs/cir.jpg, id=394, 1083.04625pt x 210.7875pt>
+<figs/cir.jpg, id=414, 1083.04625pt x 210.7875pt>
 File: figs/cir.jpg Graphic file (type jpg)
 <use figs/cir.jpg>
 Package pdftex.def Info: figs/cir.jpg  used on input line 21.
@@ -1720,12 +1720,12 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
  [23
 
  <./figs/tan.jpg>]
-<figs/tri.jpg, id=404, 1084.05pt x 275.0275pt>
+<figs/tri.jpg, id=424, 1084.05pt x 275.0275pt>
 File: figs/tri.jpg Graphic file (type jpg)
 <use figs/tri.jpg>
 Package pdftex.def Info: figs/tri.jpg  used on input line 30.
 (pdftex.def)             Requested size: 360.0pt x 91.33427pt.
-<figs/sq.jpg, id=406, 966.61125pt x 198.7425pt>
+<figs/sq.jpg, id=426, 966.61125pt x 198.7425pt>
 File: figs/sq.jpg Graphic file (type jpg)
 <use figs/sq.jpg>
 Package pdftex.def Info: figs/sq.jpg  used on input line 38.
@@ -1740,17 +1740,17 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [24 <./figs/cir.jpg> <./figs/tri.jpg>]
-<figs/sct.jpg, id=419, 959.585pt x 162.6075pt>
+<figs/sct.jpg, id=439, 959.585pt x 162.6075pt>
 File: figs/sct.jpg Graphic file (type jpg)
 <use figs/sct.jpg>
 Package pdftex.def Info: figs/sct.jpg  used on input line 46.
 (pdftex.def)             Requested size: 360.0pt x 61.00494pt.
-<figs/ver.jpg, id=421, 1033.8625pt x 233.87375pt>
+<figs/ver.jpg, id=441, 1033.8625pt x 233.87375pt>
 File: figs/ver.jpg Graphic file (type jpg)
 <use figs/ver.jpg>
 Package pdftex.def Info: figs/ver.jpg  used on input line 54.
 (pdftex.def)             Requested size: 360.0pt x 81.43593pt.
-<figs/hor.jpg, id=423, 986.68625pt x 245.91875pt>
+<figs/hor.jpg, id=443, 986.68625pt x 245.91875pt>
 File: figs/hor.jpg Graphic file (type jpg)
 <use figs/hor.jpg>
 Package pdftex.def Info: figs/hor.jpg  used on input line 62.
@@ -1762,7 +1762,7 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [25 <./figs/sq.jpg> <./figs/sct.jpg> <./figs/ver.jpg>]
-<figs/sl.jpg, id=434, 1014.79124pt x 266.9975pt>
+<figs/sl.jpg, id=454, 1014.79124pt x 266.9975pt>
 File: figs/sl.jpg Graphic file (type jpg)
 <use figs/sl.jpg>
 Package pdftex.def Info: figs/sl.jpg  used on input line 72.
@@ -1774,16 +1774,50 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [26 <./figs/hor.jpg> <./figs/sl.jpg>]
+Chapter 5.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [27
+
+]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [28
+
+]
+Chapter 6.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [29]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [30
+
+]
 No file main.ind.
 (./main.aux)
 Package rerunfilecheck Info: File `main.out' has not changed.
-(rerunfilecheck)             Checksum: 8CD70974F1F1A296EC4F43D9451B5BF5;498.
+(rerunfilecheck)             Checksum: D6B14B50A23CD9593CB639A8480E2C54;695.
  ) 
 Here is how much of TeX's memory you used:
- 29490 strings out of 479304
- 565646 string characters out of 5869779
+ 29502 strings out of 479304
+ 565762 string characters out of 5869779
  1071946 words of memory out of 5000000
- 45621 multiletter control sequences out of 15000+600000
+ 45625 multiletter control sequences out of 15000+600000
  415008 words of font info for 71 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  218i,21n,217p,661b,489s stack positions out of 5000i,500n,10000p,200000b,80000s
@@ -1798,10 +1832,10 @@ ts/cm/cmssbx10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/c
 m/cmsy10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy
 8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/symbols/msam10
 .pfb></usr/share/texmf/fonts/type1/public/cm-super/sfrm0800.pfb>
-Output written on main.pdf (32 pages, 1108713 bytes).
+Output written on main.pdf (36 pages, 1112794 bytes).
 PDF statistics:
- 535 PDF objects out of 1000 (max. 8388607)
- 458 compressed objects within 5 object streams
- 237 named destinations out of 1000 (max. 500000)
- 244 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 572 PDF objects out of 1000 (max. 8388607)
+ 491 compressed objects within 5 object streams
+ 245 named destinations out of 1000 (max. 500000)
+ 276 words of extra memory for PDF output out of 10000 (max. 10000000)
 
