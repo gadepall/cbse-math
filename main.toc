@@ -2,7 +2,9 @@
 \contentsline {schapter}{Introduction}{iii}{chapter*.2}%
 \contentsline {chapter}{\numberline {1}Vectors}{1}{chapter.1}%
 \contentsline {section}{\numberline {1.1}2023}{1}{section.1.1}%
-\contentsline {section}{\numberline {1.2}2022}{2}{section.1.2}%
+\contentsline {subsection}{\numberline {1.1.1}10}{1}{subsection.1.1.1}%
+\contentsline {subsection}{\numberline {1.1.2}12}{2}{subsection.1.1.2}%
+\contentsline {section}{\numberline {1.2}2022}{4}{section.1.2}%
 \contentsline {chapter}{\numberline {2}Linear Forms}{13}{chapter.2}%
 \contentsline {section}{\numberline {2.1}2022}{13}{section.2.1}%
 \contentsline {chapter}{\numberline {3}Intersection of Conics}{21}{chapter.3}%
@@ -11,8 +13,10 @@
 \contentsline {section}{\numberline {4.1}2022}{23}{section.4.1}%
 \contentsline {chapter}{\numberline {5}Probability}{27}{chapter.5}%
 \contentsline {section}{\numberline {5.1}2023}{27}{section.5.1}%
-\contentsline {section}{\numberline {5.2}2022}{30}{section.5.2}%
-\contentsline {chapter}{\numberline {6}Construction}{39}{chapter.6}%
-\contentsline {section}{\numberline {6.1}2022}{39}{section.6.1}%
-\contentsline {chapter}{\numberline {7}Optimization}{41}{chapter.7}%
-\contentsline {section}{\numberline {7.1}2023}{41}{section.7.1}%
+\contentsline {subsection}{\numberline {5.1.1}10}{27}{subsection.5.1.1}%
+\contentsline {subsection}{\numberline {5.1.2}12}{30}{subsection.5.1.2}%
+\contentsline {section}{\numberline {5.2}2022}{32}{section.5.2}%
+\contentsline {chapter}{\numberline {6}Construction}{41}{chapter.6}%
+\contentsline {section}{\numberline {6.1}2022}{41}{section.6.1}%
+\contentsline {chapter}{\numberline {7}Optimization}{43}{chapter.7}%
+\contentsline {section}{\numberline {7.1}2023}{43}{section.7.1}%
