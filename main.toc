@@ -11,18 +11,22 @@
 \contentsline {section}{\numberline {2.1}2023}{19}{section.2.1}%
 \contentsline {subsection}{\numberline {2.1.1}10}{19}{subsection.2.1.1}%
 \contentsline {section}{\numberline {2.2}2022}{20}{section.2.2}%
-\contentsline {chapter}{\numberline {3}Intersection of Conics}{29}{chapter.3}%
-\contentsline {section}{\numberline {3.1}2022}{29}{section.3.1}%
-\contentsline {chapter}{\numberline {4}Tangent And Normal}{31}{chapter.4}%
-\contentsline {section}{\numberline {4.1}2022}{31}{section.4.1}%
-\contentsline {chapter}{\numberline {5}Probability}{35}{chapter.5}%
-\contentsline {section}{\numberline {5.1}2023}{35}{section.5.1}%
-\contentsline {subsection}{\numberline {5.1.1}10}{35}{subsection.5.1.1}%
-\contentsline {subsection}{\numberline {5.1.2}12}{38}{subsection.5.1.2}%
-\contentsline {section}{\numberline {5.2}2022}{40}{section.5.2}%
-\contentsline {chapter}{\numberline {6}Construction}{49}{chapter.6}%
-\contentsline {section}{\numberline {6.1}2023}{49}{section.6.1}%
-\contentsline {subsection}{\numberline {6.1.1}9}{49}{subsection.6.1.1}%
-\contentsline {section}{\numberline {6.2}2022}{50}{section.6.2}%
-\contentsline {chapter}{\numberline {7}Optimization}{55}{chapter.7}%
-\contentsline {section}{\numberline {7.1}2023}{55}{section.7.1}%
+\contentsline {section}{\numberline {2.3}2021}{27}{section.2.3}%
+\contentsline {subsection}{\numberline {2.3.1}10}{27}{subsection.2.3.1}%
+\contentsline {chapter}{\numberline {3}Intersection of Conics}{31}{chapter.3}%
+\contentsline {section}{\numberline {3.1}2022}{31}{section.3.1}%
+\contentsline {chapter}{\numberline {4}Tangent And Normal}{33}{chapter.4}%
+\contentsline {section}{\numberline {4.1}2022}{33}{section.4.1}%
+\contentsline {chapter}{\numberline {5}Probability}{37}{chapter.5}%
+\contentsline {section}{\numberline {5.1}2023}{37}{section.5.1}%
+\contentsline {subsection}{\numberline {5.1.1}10}{37}{subsection.5.1.1}%
+\contentsline {subsection}{\numberline {5.1.2}12}{40}{subsection.5.1.2}%
+\contentsline {section}{\numberline {5.2}2022}{42}{section.5.2}%
+\contentsline {chapter}{\numberline {6}Construction}{51}{chapter.6}%
+\contentsline {section}{\numberline {6.1}2023}{51}{section.6.1}%
+\contentsline {subsection}{\numberline {6.1.1}9}{51}{subsection.6.1.1}%
+\contentsline {section}{\numberline {6.2}2022}{52}{section.6.2}%
+\contentsline {section}{\numberline {6.3}2021}{55}{section.6.3}%
+\contentsline {subsection}{\numberline {6.3.1}10}{55}{subsection.6.3.1}%
+\contentsline {chapter}{\numberline {7}Optimization}{59}{chapter.7}%
+\contentsline {section}{\numberline {7.1}2023}{59}{section.7.1}%
