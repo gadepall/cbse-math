@@ -15,14 +15,16 @@
 \contentsline {section}{\numberline {3.1}2022}{29}{section.3.1}%
 \contentsline {chapter}{\numberline {4}Tangent And Normal}{31}{chapter.4}%
 \contentsline {section}{\numberline {4.1}2022}{31}{section.4.1}%
-\contentsline {chapter}{\numberline {5}Probability}{35}{chapter.5}%
-\contentsline {section}{\numberline {5.1}2023}{35}{section.5.1}%
-\contentsline {subsection}{\numberline {5.1.1}10}{35}{subsection.5.1.1}%
-\contentsline {subsection}{\numberline {5.1.2}12}{38}{subsection.5.1.2}%
-\contentsline {section}{\numberline {5.2}2022}{40}{section.5.2}%
-\contentsline {chapter}{\numberline {6}Construction}{49}{chapter.6}%
-\contentsline {section}{\numberline {6.1}2023}{49}{section.6.1}%
-\contentsline {subsection}{\numberline {6.1.1}9}{49}{subsection.6.1.1}%
-\contentsline {section}{\numberline {6.2}2022}{50}{section.6.2}%
-\contentsline {chapter}{\numberline {7}Optimization}{55}{chapter.7}%
-\contentsline {section}{\numberline {7.1}2023}{55}{section.7.1}%
+\contentsline {section}{\numberline {4.2}2023}{35}{section.4.2}%
+\contentsline {subsection}{\numberline {4.2.1}10}{35}{subsection.4.2.1}%
+\contentsline {chapter}{\numberline {5}Probability}{43}{chapter.5}%
+\contentsline {section}{\numberline {5.1}2023}{43}{section.5.1}%
+\contentsline {subsection}{\numberline {5.1.1}10}{43}{subsection.5.1.1}%
+\contentsline {subsection}{\numberline {5.1.2}12}{46}{subsection.5.1.2}%
+\contentsline {section}{\numberline {5.2}2022}{48}{section.5.2}%
+\contentsline {chapter}{\numberline {6}Construction}{57}{chapter.6}%
+\contentsline {section}{\numberline {6.1}2023}{57}{section.6.1}%
+\contentsline {subsection}{\numberline {6.1.1}9}{57}{subsection.6.1.1}%
+\contentsline {section}{\numberline {6.2}2022}{58}{section.6.2}%
+\contentsline {chapter}{\numberline {7}Optimization}{63}{chapter.7}%
+\contentsline {section}{\numberline {7.1}2023}{63}{section.7.1}%
