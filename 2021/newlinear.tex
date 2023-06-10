@@ -4,7 +4,10 @@
 %\providecommand{\brak}[1]{\ensuremath{\left(#1\right)}}
 %\begin{document}
 %\section*{\center Linear}
-\begin{enumerate}
+\begin{enumerate}[label=\thesection.\arabic*.,ref=\thesection.\theenumi]
+\numberwithin{equation}{enumi}
+\numberwithin{figure}{enumi}
+\numberwithin{table}{enumi}
 \item 
 \begin{enumerate}
     \item Find whether the following pair linear equations are consistent or 

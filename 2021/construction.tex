@@ -6,7 +6,10 @@
 %\usepackage{enumitem}
 %\begin{document}
 %\section*{\centering Construction}
-\begin{enumerate}
+\begin{enumerate}[label=\thesection.\arabic*.,ref=\thesection.\theenumi]
+\numberwithin{equation}{enumi}
+\numberwithin{figure}{enumi}
+\numberwithin{table}{enumi}
 \item Check whether $13$ cm, $12$ cm, $5$ cm can be the sides of a right triangle.
 \item \begin{enumerate}
     \item If a $PL$ and $PM$ are two tangents to a circle with center $\vec{O}$ from an external point $\vec{P}$ and $PL=4$ cm, find the length of $OP$, where radius of the circle is $3$ cm.
