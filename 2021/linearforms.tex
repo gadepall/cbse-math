@@ -1,12 +1,15 @@
-\documentclass{article}
-\let\vec\mathbf
-\usepackage{graphicx}
-\usepackage{amsmath}
-\usepackage{gensymb}
-\usepackage{float}
-\graphicspath{{./documents/}{./figs}}
-\begin{document}
-\begin{enumerate}
+%\documentclass{article}
+%\let\vec\mathbf
+%\usepackage{graphicx}
+%\usepackage{amsmath}
+%\usepackage{gensymb}
+%\usepackage{float}
+%\graphicspath{{./documents/}{./figs}}
+%\begin{document}
+\begin{enumerate}[label=\thesection.\arabic*.,ref=\thesection.\theenumi]
+\numberwithin{equation}{enumi}
+\numberwithin{figure}{enumi}
+\numberwithin{table}{enumi}
 \item During the lockdown period, many families got bored of watching $ TV $ all the time. Out of these families, 
  one family of 6 members decided to play a card game. 17 cards numbered 1, 2, 3, 4, . . . ,17 are put in a box 
  and mixed thorougly. One card is drawn by one member at random and other family members bet for the chances 
@@ -62,4 +65,4 @@
 	\item If the graph of a pair of lines $ x - 2y + 3 = 0 $ and $ 2x - 4y = 5 $ be drawn, that what type of 
 		lines are drawn ? 
 \end{enumerate}
-\end{document}
+%\end{document}
