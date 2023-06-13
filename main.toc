@@ -12,25 +12,29 @@
 \contentsline {subsection}{\numberline {2.1.1}10}{19}{subsection.2.1.1}%
 \contentsline {subsection}{\numberline {2.1.2}12}{20}{subsection.2.1.2}%
 \contentsline {section}{\numberline {2.2}2022}{21}{section.2.2}%
-\contentsline {chapter}{\numberline {3}Circles}{29}{chapter.3}%
-\contentsline {section}{\numberline {3.1}2023}{29}{section.3.1}%
-\contentsline {subsection}{\numberline {3.1.1}10}{29}{subsection.3.1.1}%
-\contentsline {chapter}{\numberline {4}Intersection of Conics}{41}{chapter.4}%
-\contentsline {section}{\numberline {4.1}2022}{41}{section.4.1}%
-\contentsline {chapter}{\numberline {5}Tangent And Normal}{43}{chapter.5}%
-\contentsline {section}{\numberline {5.1}2022}{43}{section.5.1}%
-\contentsline {section}{\numberline {5.2}2023}{47}{section.5.2}%
-\contentsline {subsection}{\numberline {5.2.1}10}{47}{subsection.5.2.1}%
-\contentsline {chapter}{\numberline {6}Probability}{49}{chapter.6}%
-\contentsline {section}{\numberline {6.1}2021}{49}{section.6.1}%
-\contentsline {subsection}{\numberline {6.1.1}10}{49}{subsection.6.1.1}%
-\contentsline {section}{\numberline {6.2}2023}{54}{section.6.2}%
-\contentsline {subsection}{\numberline {6.2.1}10}{54}{subsection.6.2.1}%
-\contentsline {subsection}{\numberline {6.2.2}12}{57}{subsection.6.2.2}%
-\contentsline {section}{\numberline {6.3}2022}{59}{section.6.3}%
-\contentsline {chapter}{\numberline {7}Construction}{67}{chapter.7}%
-\contentsline {section}{\numberline {7.1}2023}{67}{section.7.1}%
-\contentsline {subsection}{\numberline {7.1.1}9}{67}{subsection.7.1.1}%
-\contentsline {section}{\numberline {7.2}2022}{68}{section.7.2}%
-\contentsline {chapter}{\numberline {8}Optimization}{73}{chapter.8}%
-\contentsline {section}{\numberline {8.1}2023}{73}{section.8.1}%
+\contentsline {section}{\numberline {2.3}2021}{28}{section.2.3}%
+\contentsline {subsection}{\numberline {2.3.1}10}{28}{subsection.2.3.1}%
+\contentsline {chapter}{\numberline {3}Circles}{33}{chapter.3}%
+\contentsline {section}{\numberline {3.1}2023}{33}{section.3.1}%
+\contentsline {subsection}{\numberline {3.1.1}10}{33}{subsection.3.1.1}%
+\contentsline {chapter}{\numberline {4}Intersection of Conics}{45}{chapter.4}%
+\contentsline {section}{\numberline {4.1}2022}{45}{section.4.1}%
+\contentsline {chapter}{\numberline {5}Tangent And Normal}{47}{chapter.5}%
+\contentsline {section}{\numberline {5.1}2022}{47}{section.5.1}%
+\contentsline {section}{\numberline {5.2}2023}{51}{section.5.2}%
+\contentsline {subsection}{\numberline {5.2.1}10}{51}{subsection.5.2.1}%
+\contentsline {chapter}{\numberline {6}Probability}{53}{chapter.6}%
+\contentsline {section}{\numberline {6.1}2021}{53}{section.6.1}%
+\contentsline {subsection}{\numberline {6.1.1}10}{53}{subsection.6.1.1}%
+\contentsline {section}{\numberline {6.2}2023}{58}{section.6.2}%
+\contentsline {subsection}{\numberline {6.2.1}10}{58}{subsection.6.2.1}%
+\contentsline {subsection}{\numberline {6.2.2}12}{61}{subsection.6.2.2}%
+\contentsline {section}{\numberline {6.3}2022}{63}{section.6.3}%
+\contentsline {chapter}{\numberline {7}Construction}{71}{chapter.7}%
+\contentsline {section}{\numberline {7.1}2023}{71}{section.7.1}%
+\contentsline {subsection}{\numberline {7.1.1}9}{71}{subsection.7.1.1}%
+\contentsline {section}{\numberline {7.2}2022}{72}{section.7.2}%
+\contentsline {section}{\numberline {7.3}2021}{75}{section.7.3}%
+\contentsline {subsection}{\numberline {7.3.1}10}{75}{subsection.7.3.1}%
+\contentsline {chapter}{\numberline {8}Optimization}{79}{chapter.8}%
+\contentsline {section}{\numberline {8.1}2023}{79}{section.8.1}%
