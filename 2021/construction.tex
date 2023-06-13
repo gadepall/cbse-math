@@ -1,10 +1,13 @@
-\documentclass{article}
-\let\vec\mathbf
-\usepackage{amsmath}
-\usepackage{gensymb}
-\usepackage{float}
-\begin{document}
-\begin{enumerate}
+%\documentclass{article}
+%\let\vec\mathbf
+%\usepackage{amsmath}
+%\usepackage{gensymb}
+%\usepackage{float}
+%\begin{document}
+\begin{enumerate}[label=\thesection.\arabic*.,ref=\thesection.\theenumi]
+\numberwithin{equation}{enumi}
+\numberwithin{figure}{enumi}
+\numberwithin{table}{enumi}
 \item
 		\begin{enumerate}
 			\item $ \vec{D} $ and $ \vec{E} $ are points on the sides $ CA $ and $ CB $ respectively 
@@ -112,4 +115,4 @@
 
 
 \end{enumerate}
-\end{document}
+%\end{document}
