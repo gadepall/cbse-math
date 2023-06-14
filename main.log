@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=pdflatex 2023.4.4)  14 JUN 2023 15:44
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=pdflatex 2023.4.4)  14 JUN 2023 16:21
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -2104,7 +2104,7 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [63]
-<figs/coin.jpg, id=1087, 1012.78375pt x 274.02374pt>
+<figs/coin.jpg, id=1088, 1012.78375pt x 274.02374pt>
 File: figs/coin.jpg Graphic file (type jpg)
 <use figs/coin.jpg>
 Package pdftex.def Info: figs/coin.jpg  used on input line 13.
@@ -2127,8 +2127,8 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [65 <./figs/flowers.jpg>]
-<figs/archery.jpg, id=1113, 979.66pt x 346.29375pt>
+ [65]
+<figs/archery.jpg, id=1116, 979.66pt x 346.29375pt>
 File: figs/archery.jpg Graphic file (type jpg)
 <use figs/archery.jpg>
 Package pdftex.def Info: figs/archery.jpg  used on input line 40.
@@ -2139,7 +2139,7 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [66 <./figs/archery.jpg>]
+ [66 <./figs/flowers.jpg> <./figs/archery.jpg>]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
@@ -2188,7 +2188,7 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 ]
 Chapter 7.
 (./2023/construction-10th.tex
-<figs/fig1.jpg, id=1197, 1084.05pt x 699.61375pt>
+<figs/fig1.jpg, id=1198, 1084.05pt x 699.61375pt>
 File: figs/fig1.jpg Graphic file (type jpg)
 <use figs/fig1.jpg>
 Package pdftex.def Info: figs/fig1.jpg  used on input line 26.
@@ -2205,7 +2205,7 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [73 <./figs/fig1.jpg>]
-<figs/fig2.jpg, id=1204, 1084.05pt x 721.69624pt>
+<figs/fig2.jpg, id=1206, 1084.05pt x 721.69624pt>
 File: figs/fig2.jpg Graphic file (type jpg)
 <use figs/fig2.jpg>
 Package pdftex.def Info: figs/fig2.jpg  used on input line 35.
@@ -2217,7 +2217,7 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [74 <./figs/fig2.jpg>]
-<figs/fig3.jpg, id=1216, 1084.05pt x 855.195pt>
+<figs/fig3.jpg, id=1217, 1084.05pt x 855.195pt>
 File: figs/fig3.jpg Graphic file (type jpg)
 <use figs/fig3.jpg>
 Package pdftex.def Info: figs/fig3.jpg  used on input line 53.
@@ -2232,12 +2232,12 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [75 <./figs/fig3.jpg>]
-<figs/rightangled.jpg, id=1224, 745.78625pt x 209.78375pt>
+<figs/rightangled.jpg, id=1225, 745.78625pt x 209.78375pt>
 File: figs/rightangled.jpg Graphic file (type jpg)
 <use figs/rightangled.jpg>
 Package pdftex.def Info: figs/rightangled.jpg  used on input line 8.
 (pdftex.def)             Requested size: 360.0pt x 101.26483pt.
-<figs/kites.jpg, id=1226, 926.46124pt x 210.7875pt>
+<figs/kites.jpg, id=1227, 926.46124pt x 210.7875pt>
 File: figs/kites.jpg Graphic file (type jpg)
 <use figs/kites.jpg>
 Package pdftex.def Info: figs/kites.jpg  used on input line 21.
@@ -2302,7 +2302,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 36--37
 
  []
 
-<./figs/engine.jpg, id=1338, 798.985pt x 246.9225pt>
+<./figs/engine.jpg, id=1339, 798.985pt x 246.9225pt>
 File: ./figs/engine.jpg Graphic file (type jpg)
 <use ./figs/engine.jpg>
 Package pdftex.def Info: ./figs/engine.jpg  used on input line 39.
@@ -2345,12 +2345,21 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 ]
 No file main.ind.
 (./main.aux)
-Package rerunfilecheck Info: File `main.out' has not changed.
-(rerunfilecheck)             Checksum: 6279A74952F920102235FF7221462DA4;3470.
+
+LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
+
+
+Package rerunfilecheck Warning: File `main.out' has changed.
+(rerunfilecheck)                Rerun to get outlines right
+(rerunfilecheck)                or use package `bookmark'.
+
+Package rerunfilecheck Info: Checksums for `main.out':
+(rerunfilecheck)             Before: 6279A74952F920102235FF7221462DA4;3470
+(rerunfilecheck)             After:  85D848F7CAB8EC80CE10080D89CEFBF6;3542.
  ) 
 Here is how much of TeX's memory you used:
- 33214 strings out of 478287
- 636600 string characters out of 5849290
+ 33215 strings out of 478287
+ 636616 string characters out of 5849290
  1057258 words of memory out of 5000000
  49780 multiletter control sequences out of 15000+600000
  481437 words of font info for 74 fonts, out of 8000000 for 9000
@@ -2368,10 +2377,10 @@ mssbx10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy1
 0.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb><
 /usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/symbols/msam10.pfb></
 usr/share/texmf/fonts/type1/public/cm-super/sfrm0800.pfb>
-Output written on main.pdf (94 pages, 2168551 bytes).
+Output written on main.pdf (94 pages, 2168401 bytes).
 PDF statistics:
- 1578 PDF objects out of 1728 (max. 8388607)
- 1404 compressed objects within 15 object streams
- 791 named destinations out of 1000 (max. 500000)
+ 1579 PDF objects out of 1728 (max. 8388607)
+ 1405 compressed objects within 15 object streams
+ 792 named destinations out of 1000 (max. 500000)
  537 words of extra memory for PDF output out of 10000 (max. 10000000)
 
