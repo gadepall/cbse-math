@@ -45,3 +45,5 @@
 \contentsline {subsection}{\numberline {6.3.1}10}{82}{subsection.6.3.1}%
 \contentsline {chapter}{\numberline {7}Optimization}{87}{chapter.7}%
 \contentsline {section}{\numberline {7.1}2023}{87}{section.7.1}%
+\contentsline {section}{\numberline {7.2}2021}{89}{section.7.2}%
+\contentsline {subsection}{\numberline {7.2.1}12}{89}{subsection.7.2.1}%
