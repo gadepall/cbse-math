@@ -1,126 +1,33 @@
-\documentclass{article}
-\usepackage{siunitx}
-\usepackage{setspace}
-\usepackage{gensymb}          
-\usepackage{xcolor}
-\usepackage{caption}
-%\usepackage{subcaption}
-%\doublespacing               
-\singlespacing   
-\usepackage[none]{hyphenat}   
-\usepackage{amssymb} 
-%\usepackage{relsize} 
-\usepackage[cmex10]{amsmath}  
-\usepackage{mathtools}      
-\usepackage{amsmath}   
-\usepackage{commath}  
-%\usepackage{amsthm}    
-%\interdisplaylinepenalty=2500 
-%\savesymbol{iint}   
-%\usepackage{txfonts}
-%\restoresymbol{TXF}{iint}  
-%\usepackage{wasysym}    
-\usepackage{amsthm}   
-\usepackage{mathrsfs}
-\usepackage{txfonts}
-\let\vec\mathbf{}
-%\usepackage{stfloats}
-\usepackage{float}
-\usepackage{cite}
-\usepackage{cases}
-\usepackage{subfig}
-%\usepackage{xtab}
-\usepackage{longtable}
-\usepackage{multirow}
-%\usepackage{algorithm}
-\usepackage{amssymb}
-%\usepackage{algpseudocode}
-\usepackage{enumitem}
-\usepackage{mathtools}
-%\usepackage{eenrc}
-%\usepackage[framemethod=tikz]{mdframed}
-\usepackage{listings}
-\usepackage{listings}         
-\usepackage[latin1]{inputenc}   
-%% \usepackage{color}        
-%% \usepackage{lscape}       
-\usepackage{titling}                 
-%\usepackage{fulbigskip}   
-\usepackage{tikz}      
-\usepackage{graphicx}
-\graphicspath{{/Internal storage/Download/FWC
-}}
-\usepackage{atbegshi}
-%http://ctan.org/pkg/atbegshi
-\AtBeginDocument{\AtBeginShipoutNext{\AtBeginShipoutDiscard}}
-\newcommand{\mydet}[1]{\ensuremath{\begin{vmatrix}#1\end{vmatrix}}}
-\providecommand{\brak}[1]{\ensuremath{\left(#1\right)}}
-\providecommand{\norm}[1]{\left\lVert#1\right\rVert}
-\newcommand{\solution}{\noindent \textbf{Solution: }}
-\newcommand{\myvec}[1]{\ensuremath{\begin{pmatrix}#1\end{pmatrix}}}
-\let\vec\mathbf
-\begin{document}
-\begin{center}
-\title{ ALGEBRA}
-\date{}
-\maketitle  
-\end{center}
+%\documentclass{article}
+%\begin{document}
 \begin{enumerate}
-    \item $\brak{\sec^2\theta - 1}\brak{\csc^2\theta - 1}$  is equal to:
-    \begin{enumerate}
-        \item $-1$
-        \item  $1$
-        \item  $0$
-        \item  $2$
-        \end{enumerate}
-    \item The roots of equation 
-    \begin{align}
-        x^2 + 3x - 10 = 0
-    \end{align}
-    are:
-    \begin{enumerate}
-        \item $\brak{2,-5}$
-        \item $\brak{-2,5}$
-        \item $\brak{2,5}$
-        \item $\brak{-2,-5}$
-    \end{enumerate}
-    \item If $\alpha$ , $\beta$ are zeroes of the polynomial $x^2-1$,then value of $\brak{\alpha+\beta}$ is:
-    \begin{enumerate}
-        \item $2$
-        \item $1$
-        \item $1$
-        \item $0$
-    \end{enumerate}
-    \pagebreak
-   \item  If $\alpha$, $\beta$ are the zeroes of the polynomial
-   \begin{align}
-       p(x)=4x^2 - 3x -7
-   \end{align}
-   ,then $\brak{\frac{1}{\alpha}+\frac{1}{\beta}}$ is equal to:
-   \begin{enumerate}
-       \item $\frac{7}{3}$
-       \item $\frac{-7}{3}$
-       \item $\frac{3}{7}$
-       \item $\frac{-3}{7}$
+ \item If one zero of the polynomial \begin{align} p(x)=6x^2+37x-(k-2) \end{align} is reciprocal of the other, then find the value of $k$?
+ \item Find the value of $'p'$ for which one root of the quadratic equation \begin{align} px^2-14x+18=0 \end{align}is 6 times the other?
+ \item 
+ \begin{enumerate}
+  \item prove that \begin{align} \frac{\sin A-2 \sin^3A}{2\cos^3A-\cos A}=\tan A\end{align} 
+  \item \begin{align} \sec A (1-\sin A)(\sec A+\tan A)=1\end{align} 
+  \end{enumerate}
+  \item Which of the following  quadratic equations has sum of its roots as 4?
+  \begin{enumerate}
+      \item $2x^2-4x+8=0$ 
+      \item $-x^2+4x+4=0$
+      \item $\sqrt{2x^2}-\frac{4}{\sqrt{2}}x+1=0$ 
+      \item $4x^2-4x+4=0$
    \end{enumerate}
-   \item  Find the sum and product of the roots of the quadratic equation 
-   \begin{align}
-       2x^2-9x+4=0
-   \end{align}
-   \item Find the discriminant of the quadratic equation 
-   \begin{align}
-       4x^2-5=0
-   \end{align}
-   and hence comment on the nature of roots of the equation.
-   \item Evaluate $2\sec^2\theta+3\csc^2\theta-2\sin\theta\cos\theta$ if
-   \begin{align}
-        \theta=45\si{\degree}
-   \end{align}
-  
-   \item If
-   \begin{align}
-       \sin\theta-\cos\theta=0
-   \end{align}
-   ,then find the value of $\sin^4\theta+\cos^4\theta$.
+   \item if one zero of the polynomial \begin{align} 6x^2+37x-(k-2)\end{align}  is reciprocal of the other,then what is the value of $k$?
+   \begin{enumerate}
+       \item -4
+       \item -6
+       \item 6
+       \item 4
+   \end{enumerate}
+   \item The zeroes of the polynomial \begin{align}p(x)=x^2+4x+3\end{align}  are given by:
+   \begin{enumerate}
+       \item 1,3
+       \item -1,3
+       \item 1,-3
+       \item -1,-3
+   \end{enumerate}
 \end{enumerate}
-\end{document}
+%\end{document}
