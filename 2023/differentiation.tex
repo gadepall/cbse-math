@@ -1,0 +1,123 @@
+\documentclass{article}    
+\usepackage{siunitx}                          \usepackage{setspace}  \usepackage{graphicx}
+\graphicspath{ {./images/} }  
+\usepackage{enumitem}
+\usepackage{gensymb}
+\usepackage{xcolor}                           \usepackage{caption}                          %\usepackage{subcaption}                      %\doublespacing
+\singlespacing
+\usepackage[none]{hyphenat}                   \usepackage{amssymb}
+%\usepackage{relsize}
+\usepackage[cmex10]{amsmath}                  \usepackage{mathtools}                        \usepackage{amsmath}
+\usepackage{commath}
+%\usepackage{amsthm}
+%\interdisplaylinepenalty=2500                %\savesymbol{iint}                            %\usepackage{txfonts}
+%\restoresymbol{TXF}{iint}
+%\usepackage{wasysym}                         \usepackage{amsthm}                           \usepackage{mathrsfs}
+\usepackage{txfonts}
+\let\vec\mathbf{}
+%\usepackage{stfloats}
+\usepackage{float}
+\usepackage{cite}
+\usepackage{cases}
+\usepackage{subfig}                           %\usepackage{xtab}                            \usepackage{longtable}
+\usepackage{multirow}
+%\usepackage{algorithm}
+\usepackage{amssymb}                          %\usepackage{algpseudocode}
+\usepackage{enumitem}
+\usepackage{mathtools}
+
+\providecommand{\mbf}{\mathbf}
+\providecommand{\pr}[1]{\ensuremath{\Pr\left(#1\right)}}
+\providecommand{\re}[1]{\ensuremath{\text{Re}\left(#1\right)}}
+\providecommand{\im}[1]{\ensuremath{\text{Im}\left(#1\right)}}
+\providecommand{\qfunc}[1]{\ensuremath{Q\left(#1\right)}}
+\providecommand{\sbrak}[1]{\ensuremath{{}\left[#1\right]}}
+\providecommand{\lsbrak}[1]{\ensuremath{{}\left[#1\right.}}
+\providecommand{\rsbrak}[1]{\ensuremath{{}\left.#1\right]}}
+\providecommand{\brak}[1]{\ensuremath{\left(#1\right)}}
+\providecommand{\lbrak}[1]{\ensuremath{\left(#1\right.}}
+\providecommand{\rbrak}[1]{\ensuremath{\left.#1\right)}}
+\providecommand{\cbrak}[1]{\ensuremath{\left\{#1\right\}}}
+\providecommand{\lcbrak}[1]{\ensuremath{\left\{#1\right.}}
+\providecommand{\rcbrak}[1]{\ensuremath{\left.#1\right\}}}
+%\usepackage{eenrc}
+%\usepackage[framemethod=tikz]{mdframed}      \usepackage{listings}                         \usepackage{listings}                         \usepackage[latin1]{inputenc}                 %% \usepackage{color}
+\usepackage{titling}
+%\usepackage{fulbigskip}
+\usepackage{tikz}                             \usepackage{graphicx}
+\begin{document}
+\title{CLASS 12\\DIFFERENTIATION}
+\date{}
+\maketitle
+\section{EXERCISE 1}
+\begin{enumerate}
+	\item If $\tan \brak{\frac{x+y}{x-y}}=k$,then $\dfrac{dy}{dx}$ is equal to 
+		\begin{enumerate}
+			\item $\frac{-y}{x}$
+   \item $\frac{y}{x}$
+			
+			\item $\sec^{2}\brak{\frac{y}{x}}$ 
+   \item $-\sec^{2}\brak{\frac{y}{x}}$ 
+			
+   \end{enumerate}
+  \item  \textbf{Assertion(A) :}Maximum value of $\brak{{\cos^{-1}}}^2$ is ${{\pi}^2}$.\\
+  \textbf{Reason(R):}Range of the principle value branch of ${{\cos^{-1}x}}$ is $\sbrak{{\frac{\pi}{2}},{\frac{\pi}{2}}}$.
+	\item If $y=\sqrt{ax+b}$ , prove that $y\brak{\dfrac{d^2y}{dx^2}}+\brak{\dfrac{dy}{dx}}^2=0$ 
+ \item If the circumference of circle is increasing at the constant rate, prove that rate of change of area of circle is directly proportional to its radius.
+ \newpage
+ \item Engine displacement is the measure of the cylinder volume swept by all the pistons of a piston engine.The piston moves inside the cylinder bore  
+  \begin{figure}[!h]
+	  \begin{center}
+\includegraphics[width=\columnwidth]{figs/engine.png}
+	  \end{center}
+\caption{}
+\label{fig:engine}
+\end{figure}
+    
+
+ The cylinder bore in the form of circular cylinder open at the top is to be made from a metal sheet of area ${75\pi}$ ${cm}^2.$ \newline
+
+ Based on the above information , answer the following questions: 
+
+ \begin{enumerate}[label=(\roman*)]
+
+     \item  If the radius of cylinder is r cm and height is h cm, then write the volume V of cylinder in terms of radius r. 
+     \item Find $\dfrac{dv}{dr}$ 
+     
+     \item 
+	     \begin{enumerate}[label=(\alph*)]
+     \item Find the radius of cylinder when its volume is maximum. 
+   
+     \item  For maximum volume, $h > r$.State true or false and justify. 
+ \end{enumerate}
+ \end{enumerate}
+  \newpage  
+ \item The use of electric vehicles will curb air pollution in the long run.
+ 
+\begin{figure}[!h]
+	\begin{center}
+\includegraphics[width=\columnwidth]{figs/electricvehicle.png}
+	\end{center}
+\caption{}
+\label{fig:electricvehicle}
+\end{figure}
+\end{enumerate}
+  
+ The use of electric vehicles is increasing every year and estimated electric vehicles in use at any time t is given by the function V :
+ 
+ \begin{align}
+    V\brak{t}=\frac{1}{5}t^3 - \frac{5}{2}t^2 + 25t-2 
+ \end{align}
+
+
+ Where t represents the time and t=1,2,3\dots corresponds to year 2001,2002,2003\dots respectively.\\
+ Based on the above information, answer the following questions :
+ \begin{enumerate}[label=(\roman*)]
+     \item Can the above function be used to estimate number of vehicles in the year 2000 ? Justify. 
+     \item Prove that the function V\brak{t} is an increasing function.
+ \end{enumerate}
+ 
+ 
+   
+  
+  \end{document}
