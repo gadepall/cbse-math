@@ -1,0 +1,156 @@
+\documentclass[12pt]{article}
+\usepackage{hyperref}
+\usepackage{listings}
+\usepackage{biblatex}
+\usepackage{tikz}
+\usepackage{refstyle}
+\usepackage{mathabx}
+\usepackage{amssymb}
+\usepackage{amsmath}
+\usepackage{caption}
+\usepackage{float}
+\usepackage{graphicx}
+\usepackage{graphics}
+\usepackage{subfig}
+\usepackage{tfrupee}
+\newcommand{\abs}[1]{\lvert#1\rvert}
+
+\usepackage{siunitx}
+\usepackage{setspace}
+\usepackage{gensymb}
+\usepackage{xcolor}
+\usepackage{caption}
+%\usepackage{subcaption}
+\doublespacing
+\singlespacing
+\usepackage[none]{hyphenat}
+\usepackage{amssymb}
+\usepackage{relsize}
+\usepackage[cmex10]{amsmath}
+%\usepackage{mathtools}
+\usepackage{amsmath}
+\usepackage{commath}
+\usepackage{amsthm}
+\interdisplaylinepenalty=2500
+%\savesymbol{iint}
+\usepackage{txfonts}
+%\restoresymbol{TXF}{iint}
+\usepackage{wasysym}
+\usepackage{amsthm}
+\usepackage{mathrsfs}
+\usepackage{txfonts}
+\let\vec\mathbf{}
+\usepackage{stfloats}
+\usepackage{float}
+\usepackage{cite}
+\usepackage{cases}
+\usepackage{subfig}
+%\usepackage{xtab}
+\usepackage{longtable}
+\usepackage{multirow}
+%\usepackage{algorithm}
+\usepackage{amssymb}
+%\usepackage{algpseudocode}
+\usepackage{enumitem}
+\usepackage{mathtools}
+%\usepackage{eenrc}
+%\usepackage[framemethod=tikz]{mdframed}
+\usepackage{listings}
+%\usepackage{listings}
+\usepackage[latin1]{inputenc}
+%%\usepackage{color}{   
+%%\usepackage{lscape}
+\usepackage{textcomp}
+\usepackage{titling}
+\usepackage{hyperref}
+%\usepackage{fulbigskip}   
+\usepackage{tikz}
+\usepackage{graphicx}
+\lstset{
+  frame=single,
+  breaklines=true
+}
+\let\vec\mathbf{}
+\usepackage{enumitem}
+\usepackage{graphicx}
+\usepackage{siunitx}
+\let\vec\mathbf{}
+\usepackage{enumitem}
+\usepackage{graphicx}
+\usepackage{enumitem}
+\usepackage{tfrupee}
+\usepackage{amsmath}
+\usepackage{amssymb}
+\usepackage{mwe} % for blindtext and example-image-a in example
+\usepackage{wrapfig}
+\graphicspath{{figs/}}
+\providecommand{\mydet}[1]{\ensuremath{\begin{vmatrix}#1\end{vmatrix}}}
+\providecommand{\myvec}[1]{\ensuremath{\begin{bmatrix}#1\end{bmatrix}}}
+\providecommand{\cbrak}[1]{\ensuremath{\left\{#1\right\}}}
+\providecommand{\brak}[1]{\ensuremath{\left(#1\right)}}
+\graphicspath{{/storage/self/primary/Download/latexnew/fig}}
+\title{Optimization assignment}
+%\author{Prof.G V V sharma}
+\date{\today}
+
+\begin{document}
+
+\maketitle{Questions}
+
+\begin{enumerate}
+
+\item If the corner points $(3,4)$ and $(5,0)$ of the feasible region in an LPP, give the same maximum value for the objective function $z=ax+by$, where a,b $>$ 0, then we have 
+
+
+\begin{enumerate}
+\item $a=2b$
+\item $2a=b$
+\item $2a=3b$
+\item $3b=2a$
+\end{enumerate}
+
+\item A dietician wishes to mix two types of foods in such a way that vitamin contents of the mixture contain at least 8 units of vitamin A and 10 units of vitamin C. Food I contains 2 units/kg of vitamin A and 1 unit/kg of vitamin C. Food II contains 1  unit/kg of vitamin A and 2 units/kg of vitamin C. It costs 1 \rupee 50 per kg to purchase Food I and  \rupee 70 per kg to purchase Food II. Formulate this problem as a Linear Programming Problem for minimizing the cost of such a mixture.
+
+\item Show that of all the rectangles inscribed in a given fixed circle, the square has maximum area.
+
+
+
+Find the intervals in which the function f given by $f(x) = \sin x + \cos x, 0 \le x \le 2\pi$ is strictly increasing or strictly decreasing.
+
+\item A company produces two types of goods, A and B that require gold and silver. Each unit of type A requires 3 g of silver and 1 g of gold, while that of type B requires 1 g of silver and 2 g of gold. The company can use at the most 9 g of silver and 8 g of gold. If each unit of type A brings a profit of    \rupee  120  and that of type B   \rupee 150  , then find the number of units of each type that the company should produce to maximize profit.
+
+Formulate the above LPP and solve it graphically. Also, find the maximum profit.
+
+
+\item Find the intervals in which the function f defined as $f(x) = \sin x + \cos x, 0 \le x \le 2\pi$ is strictly increasing or decreasing.
+
+
+
+Prove that the radius of the right circular cylinder of greatest curved surface area which can be inscribed in a given cone is half of that of the cone.
+
+\item Maximize $z=3x + 4y$, if possible,
+
+subject to the constraints :
+\begin{align}
+ x - y &\le - 1 \\
+-x + y &\le 0 \\
+x, y &\ge 0
+\end{align}
+
+
+\item A dietician wishes to mix two types of foods F1 and F2 in such a way that the vitamin content of the mixture contains at least 8 units of vitamin A and 10 units of vitamin C. Food F1 contains 2 units/kg of vitamin A  and 1 unit/kg of vitamin C, while Food F2 contains 1 unit/kg of vitamin A and 2units/kg of vitamin C. It costs \rupee  5  per kg to purchase Food F1 and  \rupee  7  per kg to purchase Food F2
+
+
+Based on the above information, answer the following questions:
+
+
+\begin{enumerate}
+\item To find out the minimum cost of such a mixture, formulate the above problem as a LPP.
+\item Determine the minimum cost of the mixture.
+\end{enumerate}
+
+
+\item Find the area bounded by the curves $y = \abs{x - 1}$ and $y = 1$, using integration.
+
+\end{enumerate}
+\end{document}
