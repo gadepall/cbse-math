@@ -152,12 +152,11 @@
 \contentsline {section}{\numberline {9.5}2018}{280}{section.9.5}%
 \contentsline {subsection}{\numberline {9.5.1}10}{280}{subsection.9.5.1}%
 \contentsline {subsection}{\numberline {9.5.2}12}{283}{subsection.9.5.2}%
-\contentsline {section}{\numberline {9.6}(}{284}{section.9.6}%
-\contentsline {subsection}{\numberline {9.6.1}12}{284}{subsection.9.6.1}%
-\contentsline {section}{\numberline {9.7}2020}{285}{section.9.7}%
-\contentsline {subsection}{\numberline {9.7.1}10}{285}{subsection.9.7.1}%
-\contentsline {section}{\numberline {9.8}2016}{288}{section.9.8}%
-\contentsline {subsection}{\numberline {9.8.1}10}{288}{subsection.9.8.1}%
+\contentsline {section}{\numberline {9.6}2020}{284}{section.9.6}%
+\contentsline {subsection}{\numberline {9.6.1}10}{284}{subsection.9.6.1}%
+\contentsline {section}{\numberline {9.7}2016}{287}{section.9.7}%
+\contentsline {subsection}{\numberline {9.7.1}10}{287}{subsection.9.7.1}%
+\contentsline {subsection}{\numberline {9.7.2}12}{290}{subsection.9.7.2}%
 \contentsline {chapter}{\numberline {10}Discrete}{297}{chapter.10}%
 \contentsline {section}{\numberline {10.1}2022}{297}{section.10.1}%
 \contentsline {subsection}{\numberline {10.1.1}10}{297}{subsection.10.1.1}%
