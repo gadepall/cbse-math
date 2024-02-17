@@ -19,10 +19,11 @@
 \contentsline {subsection}{\numberline {1.6.1}10}{30}{subsection.1.6.1}%
 \contentsline {section}{\numberline {1.7}2018}{33}{section.1.7}%
 \contentsline {subsection}{\numberline {1.7.1}10}{33}{subsection.1.7.1}%
-\contentsline {subsection}{\numberline {1.7.2}12}{33}{subsection.1.7.2}%
-\contentsline {section}{\numberline {1.8}2016}{37}{section.1.8}%
-\contentsline {subsection}{\numberline {1.8.1}10}{37}{subsection.1.8.1}%
-\contentsline {subsection}{\numberline {1.8.2}12}{38}{subsection.1.8.2}%
+\contentsline {section}{\numberline {1.8}Construction}{33}{section.1.8}%
+\contentsline {subsection}{\numberline {1.8.1}12}{34}{subsection.1.8.1}%
+\contentsline {section}{\numberline {1.9}2016}{38}{section.1.9}%
+\contentsline {subsection}{\numberline {1.9.1}10}{38}{subsection.1.9.1}%
+\contentsline {subsection}{\numberline {1.9.2}12}{39}{subsection.1.9.2}%
 \contentsline {chapter}{\numberline {2}Linear Forms}{43}{chapter.2}%
 \contentsline {section}{\numberline {2.1}2023}{43}{section.2.1}%
 \contentsline {subsection}{\numberline {2.1.1}10}{43}{subsection.2.1.1}%
