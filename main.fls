@@ -642,6 +642,9 @@ INPUT 2019\vecj.tex
 INPUT .\2018\vectors-CBSE.tex
 INPUT .\2018\vectors-CBSE.tex
 INPUT 2018\vectors-CBSE.tex
+INPUT .\2018\vec22.tex
+INPUT .\2018\vec22.tex
+INPUT 2018\vec22.tex
 INPUT .\2018\vech.tex
 INPUT .\2018\vech.tex
 INPUT 2018\vech.tex
@@ -1185,6 +1188,9 @@ INPUT 2019\probj.tex
 INPUT .\2018\probability-CBSE.tex
 INPUT .\2018\probability-CBSE.tex
 INPUT 2018\probability-CBSE.tex
+INPUT .\2018\prob22.tex
+INPUT .\2018\prob22.tex
+INPUT 2018\prob22.tex
 INPUT .\2018\probh.tex
 INPUT .\2018\probh.tex
 INPUT 2018\probh.tex
@@ -1348,6 +1354,9 @@ INPUT .\figs\i3.jpeg
 INPUT .\2018\construction-CBSE.tex
 INPUT .\2018\construction-CBSE.tex
 INPUT 2018\construction-CBSE.tex
+INPUT .\2018\con22.tex
+INPUT .\2018\con22.tex
+INPUT 2018\con22.tex
 INPUT .\2017\cons1.tex
 INPUT .\2017\cons1.tex
 INPUT 2017\cons1.tex
@@ -1402,6 +1411,9 @@ INPUT 2019\opti202.tex
 INPUT .\2019\opti203.tex
 INPUT .\2019\opti203.tex
 INPUT 2019\opti203.tex
+INPUT .\2018\opt22.tex
+INPUT .\2018\opt22.tex
+INPUT 2018\opt22.tex
 INPUT .\2018\opth.tex
 INPUT .\2018\opth.tex
 INPUT 2018\opth.tex
@@ -1505,6 +1517,9 @@ INPUT .\figs\rectq8.jpg
 INPUT .\figs\rectq8.jpg
 INPUT .\figs\rectq8.jpg
 INPUT .\figs\rectq8.jpg
+INPUT .\2018\alg22.tex
+INPUT .\2018\alg22.tex
+INPUT 2018\alg22.tex
 INPUT .\2018\algh.tex
 INPUT .\2018\algh.tex
 INPUT 2018\algh.tex
@@ -1756,6 +1771,9 @@ INPUT .\figs\cylinderq21.jpg
 INPUT .\figs\cylinderq21.jpg
 INPUT .\figs\cylinderq21.jpg
 INPUT .\figs\cylinderq21.jpg
+INPUT .\2018\geo22.tex
+INPUT .\2018\geo22.tex
+INPUT 2018\geo22.tex
 INPUT .\2018\geoh.tex
 INPUT .\2018\geoh.tex
 INPUT 2018\geoh.tex
@@ -1927,6 +1945,9 @@ INPUT 2016\Geometry.tex
 INPUT .\2019\numsysj.tex
 INPUT .\2019\numsysj.tex
 INPUT 2019\numsysj.tex
+INPUT .\2018\num22.tex
+INPUT .\2018\num22.tex
+INPUT 2018\num22.tex
 INPUT .\2023\differentiation.tex
 INPUT .\2023\differentiation.tex
 INPUT 2023\differentiation.tex
@@ -2174,6 +2195,9 @@ INPUT 2015\mat.tex
 INPUT .\2019\trignj.tex
 INPUT .\2019\trignj.tex
 INPUT 2019\trignj.tex
+INPUT .\2018\trig22.tex
+INPUT .\2018\trig22.tex
+INPUT 2018\trig22.tex
 INPUT .\2017\trig1.tex
 INPUT .\2017\trig1.tex
 INPUT 2017\trig1.tex
